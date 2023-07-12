@@ -4,6 +4,7 @@ import { onMounted, ref } from "vue";
 import { LottieAnimation } from "lottie-web-vue";
 import WatermelonJSON from "/public/img/turu.json";
 
+
 // Menginisialisasi variabel anim sebagai referensi Vue
 let anim = ref();
 
