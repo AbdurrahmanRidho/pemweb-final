@@ -55,10 +55,10 @@ const props = defineProps({
             class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4"
         >
             <a href="/" class="flex items-center">
-                <img src="img/turu_corp.png" class="h-8 mr-3" alt=" Logo" />
+                <img src="img/turu_corp.png" class="h-12 mr-3" alt=" Logo" />
                 <span
                     class="self-center text-2xl font-semibold whitespace-nowrap dark:text-dark"
-                    >Dosen AI</span
+                    >We Are Turu-Corp!</span
                 >
             </a>
             <div class="flex md:order-2">
@@ -311,12 +311,12 @@ const props = defineProps({
                     <div className="text-sm text-gray-600">
                         <img
                             src="img/turu_corp.png"
-                            class="h-8 mr-3"
+                            class="h-12 mr-3"
                             alt=" Logo"
                         />
                         <span
                             class="self-center text-2xl font-semibold whitespace-nowrap dark:text-dark"
-                            >Dosen AI</span
+                            >We Are Turu-Corp!</span
                         >
                     </div>
                 </div>
